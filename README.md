@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NouhJama
-- 👀 I’m interested in Software development and Data Engineering
-- 🌱 I’m currently learning Data Engineering and Cloud computing
-- 💞️ I’m looking to collaborate on Data applications for Finance sector
+- 👀 I’m interested in Software development and cloud engineer
+- 🌱 I’m currently learning backend and Cloud computing
+- 💞️ I’m looking to collaborate on building web apps in the finance and health sector.
 - 📫 How to reach me ...https://www.linkedin.com/in/nouh-ali-0382651ba/
 
 <!---
