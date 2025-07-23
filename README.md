@@ -1,10 +1,8 @@
 <h1>Hi, I'm Nouh Ali! <br/><a href="https://www.linkedin.com/in/nouh-ali-0382651ba/">Software Engineer</a>, <a href="https://www.linkedin.com/in/nouh-ali-0382651ba/">Cloud Professional</a></h1>
 
-<h2>👨‍💻 Software Development Projects:</h2>
+- <h2>🕸️ Software Development Projects:</h2>
 
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
-- <b>Full Stack Web App (Python, Flask, Firebase, and Mysql)</b>
+ <b>Full Stack Web App (Python, Flask, Firebase, and Mysql)</b>
   - [Jovian-careers-web-v2](https://github.com/NouhJama/Jovian-careers-website-v2) <b><i>(Responsive website)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -28,12 +26,7 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
-[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-[twitter]: https://twitter.com/joshmadakor
+[twitter]: <a>(https://twitter.com/joshmadakor)</a>
 [youtube]: https://www.youtube.com/c/joshmadakor
 [instagram]: https://www.instagram.com/joshmadakor/
 [linkedin]: https://linkedin.com/in/joshmadakor
