@@ -26,9 +26,14 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[X]: <a>(https://x.com/NoohAli96272)</a>
-[linkedin]: <a>(https://www.linkedin.com/in/nouh-ali-0382651ba/)</a>
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/nouh-ali-0382651ba/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://x.com/NoohAli96272">
+    <img src="https://unsplash.com/photos/a-black-square-button-with-a-white-x-on-it-d4_aCS3jsQ0" alt="X Badge"/>
+  </a>
+</div>
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
