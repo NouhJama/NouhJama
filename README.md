@@ -26,10 +26,8 @@
 
 <h2> 🤳 Connect with me:</h2>
 
-[twitter]: <a>(https://twitter.com/joshmadakor)</a>
-[youtube]: https://www.youtube.com/c/joshmadakor
-[instagram]: https://www.instagram.com/joshmadakor/
-[linkedin]: https://linkedin.com/in/joshmadakor
+[X]: <a>(https://x.com/NoohAli96272)</a>
+[linkedin]: <a>(https://www.linkedin.com/in/nouh-ali-0382651ba/)</a>
 
 <!--
 **joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
