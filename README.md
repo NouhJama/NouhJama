@@ -2,7 +2,7 @@
 
 - <h2>🕸️ Software Development Projects:</h2>
 
- <b>Full Stack Web App (Python, Flask, Firebase, and Mysql)</b>
+ <b>Full Stack Web App (Python,  Django, Firebase, and Postgresql)</b>
   - [Jovian-careers-web-v2](https://github.com/NouhJama/Jovian-careers-website-v2) <b><i>(Responsive website)</b></i>
 - <b>PowerShell</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
@@ -31,7 +31,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/NoohAli96272">
-    <img src="https://unsplash.com/photos/a-black-square-button-with-a-white-x-on-it-d4_aCS3jsQ0" alt="X Badge"/>
+    <img src="https://unsplash.com/photos/a-black-square-button-with-a-white-x-on-it-d4_aCS3jsQ0" alt="X"/>
   </a>
 </div>
 <!--
