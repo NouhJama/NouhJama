@@ -1,50 +1,75 @@
-<h1>Hi, I'm Nouh Ali! <br/><a href="https://www.linkedin.com/in/nouh-ali-0382651ba/">Software Engineer</a>, <a href="https://www.linkedin.com/in/nouh-ali-0382651ba/">Cloud Professional</a></h1>
+<h1 align="center">Hi 👋, I'm [Your Name]</h1>
+<h3 align="center">💻 Aspiring Back-End Software Engineer | Cloud & AI Enthusiast 🚀</h3>
 
-- <h2>🕸️ Software Development Projects:</h2>
+---
 
- <b>Full Stack Web App (Python,  Django, Firebase, and Postgresql)</b>
-  - [Jovian-careers-web-v2](https://github.com/NouhJama/Jovian-careers-website-v2) <b><i>(Responsive website)</b></i>
-- <b>PowerShell</b>
-  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
-  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
-  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
-- <b>C# (.NET Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
-- <b>Python</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+### 👨‍💻 About Me  
 
-<h2>📺 Popular YouTube Videos</h2>
+- 🔭 I’m currently learning **Back-End Software Engineering at ALX**  
+- 🌱 Focused on **scalable systems, cloud-native applications, and AI integration**  
+- 🤝 Love **team collaboration, problem-solving, and exploring new tech tools**  
+- 🎯 Goal: Become a **professional back-end developer** building robust, high-performing systems  
+- ⚡ Fun fact: *I enjoy breaking problems into small pieces and solving them like puzzles!*  
 
-- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
-- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
-- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
-- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
-- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
+---
 
-<h2> 🤳 Connect with me:</h2>
+### 🛠️ Tech Stack & Tools  
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/nouh-ali-0382651ba/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  
+  <!-- Frameworks & Libraries -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node-dot-js&logoColor=white" />
+  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+  
+  <!-- Cloud & DevOps -->
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kubernetes-326ce5.svg?&style=for-the-badge&logo=kubernetes&logoColor=white" />
+</p>
+
+---
+
+### 📌 Featured Projects  
+
+- 🔹 [**Project Name 1**](https://github.com/your-username/project1) – *Short one-liner about what it does and why it matters*  
+- 🔹 [**Project Name 2**](https://github.com/your-username/project2) – *Highlight a cool feature or problem solved*  
+- 🔹 [**Project Name 3**](https://github.com/your-username/project3) – *Something that reflects your passion for backend/cloud/AI*  
+
+---
+
+### 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="GitHub Stats" />
+</p>  
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
+</p>  
+
+---
+
+### 🌐 Let's Connect  
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/nouh-ali-0382651ba/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://x.com/NoohAli96272">
-    <img src="https://unsplash.com/photos/a-black-square-button-with-a-white-x-on-it-d4_aCS3jsQ0" alt="X"/>
+ <a href="https://x.com/NoohAli96272">
+  <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+</a>
+  <a href="noohali@outlook.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-</div>
-<!--
-**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <a href="https://nouhali.com" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" />
+  </a>
+</p>
