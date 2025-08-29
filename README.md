@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Nouh Ali</h1>
-<h3 align="center">💻 Aspiring Back-End Software Engineer | Cloud & AI Enthusiast 🚀</h3>
+<h3 align="center">💻 Aspiring junior Software Engineer(proudly pythonista) | Cloud & AI Enthusiast | math lover | Professional athlete 🚀</h3>
 
 ---
 
