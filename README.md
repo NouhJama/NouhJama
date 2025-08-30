@@ -19,11 +19,15 @@
   <!-- Python -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50" alt="Python" />
 
+  <!-- Framework -->
+  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+
+
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
 
   <!-- Rust --><!-- Rust (White Logo) -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Rust_programming_language_white_logo.svg" height="50" alt="Rust" />
+ <!-- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Rust_programming_language_white_logo.svg" height="50" alt="Rust" /> -->
 
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
@@ -37,8 +41,6 @@
   <!-- Linux -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
 
-  <!-- AWS -->
-  <img src="https://fontawesome.com/icons/aws?f=brands&s=solid&pc=%23FFD43B&sc=%23FFD43B" height="50" alt="AWS" />
 </p>
 
 
