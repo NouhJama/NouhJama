@@ -38,7 +38,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
 
   <!-- AWS -->
-  <img src="https://svn.apache.org/repos/asf/commons/header/icons/amazon-web-services-logo.svg" height="50" alt="AWS" />
+  <img src="https://fontawesome.com/icons/aws?f=brands&s=solid&pc=%23FFD43B&sc=%23FFD43B" height="50" alt="AWS" />
 </p>
 
 
