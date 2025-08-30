@@ -12,9 +12,6 @@
 - ⚡ Fun fact: *I enjoy breaking problems into small pieces and solving them like puzzles!*  
 
 ---
-
-### 🛠️ Tech Stack & Tools  
-
 <h2 align="center" style="font-family: 'Poppins', 'Roboto', sans-serif;">🛠️ Tools and Languages</h2>
 <hr />
 
@@ -26,7 +23,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
 
   <!-- Rust -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" height="50" alt="Rust" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" height="50" alt="Rust" />
 
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
@@ -41,8 +38,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="50" alt="Linux" />
 
   <!-- AWS -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original.svg" height="50" alt="AWS" />
+  <img src="https://svn.apache.org/repos/asf/commons/header/icons/amazon-web-services-logo.svg" height="50" alt="AWS" />
 </p>
+
 
 
 <p align="left">
