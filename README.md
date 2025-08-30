@@ -22,8 +22,8 @@
   <!-- Java -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="50" alt="Java" />
 
-  <!-- Rust -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" height="50" alt="Rust" />
+  <!-- Rust --><!-- Rust (White Logo) -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Rust_programming_language_white_logo.svg" height="50" alt="Rust" />
 
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="50" alt="Node.js" />
