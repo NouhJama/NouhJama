@@ -5,7 +5,7 @@
 
 ### 👨‍💻 About Me  
 
-- 🔭 I’m currently learning **Back-End Software Engineering at ALX**  
+- 🔭 I’ve graduated from **Back-End Software Engineering at ALX**  
 - 🌱 Focused on **scalable systems, cloud-native applications, and AI integration**  
 - 🤝 Love **team collaboration, problem-solving, and exploring new tech tools**  
 - 🎯 Goal: Become a **professional back-end developer** building robust, high-performing systems  
